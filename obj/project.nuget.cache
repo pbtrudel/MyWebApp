@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IvpP3OwIopREOIGPpOrnEdQZZGJXN78YRB3q3LenFmIQk9M4makFC9jmgwv3Y/lcN8EdBnpU1xqOl5H/y6Meiw==",
+  "success": true,
+  "projectFilePath": "/home/pbtrudel/GIT/MyWebApp/MyWebApp.csproj",
+  "expectedPackageFiles": [
+    "/home/pbtrudel/.nuget/packages/microsoft.net.illink.tasks/8.0.3/microsoft.net.illink.tasks.8.0.3.nupkg.sha512",
+    "/home/pbtrudel/.nuget/packages/microsoft.netcore.app.runtime.win-x64/8.0.3/microsoft.netcore.app.runtime.win-x64.8.0.3.nupkg.sha512",
+    "/home/pbtrudel/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/8.0.3/microsoft.aspnetcore.app.runtime.win-x64.8.0.3.nupkg.sha512",
+    "/home/pbtrudel/.nuget/packages/microsoft.netcore.app.host.win-x64/8.0.3/microsoft.netcore.app.host.win-x64.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
