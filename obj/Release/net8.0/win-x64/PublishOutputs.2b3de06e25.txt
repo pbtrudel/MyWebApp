@@ -1,4 +1,0 @@
-/home/pbtrudel/GIT/MyWebApp/output/appsettings.Development.json
-/home/pbtrudel/GIT/MyWebApp/output/appsettings.json
-/home/pbtrudel/GIT/MyWebApp/output/MyWebApp.pdb
-/home/pbtrudel/GIT/MyWebApp/output/MyWebApp.exe
