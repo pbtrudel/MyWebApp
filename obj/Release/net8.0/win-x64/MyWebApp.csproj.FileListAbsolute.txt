@@ -1,3 +1,11 @@
+/home/pbtrudel/GIT/MyWebApp/obj/Release/net8.0/win-x64/MyWebApp.csproj.AssemblyReference.cache
+/home/pbtrudel/GIT/MyWebApp/obj/Release/net8.0/win-x64/MyWebApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/pbtrudel/GIT/MyWebApp/obj/Release/net8.0/win-x64/MyWebApp.AssemblyInfoInputs.cache
+/home/pbtrudel/GIT/MyWebApp/obj/Release/net8.0/win-x64/MyWebApp.AssemblyInfo.cs
+/home/pbtrudel/GIT/MyWebApp/obj/Release/net8.0/win-x64/MyWebApp.csproj.CoreCompileInputs.cache
+/home/pbtrudel/GIT/MyWebApp/obj/Release/net8.0/win-x64/MyWebApp.MvcApplicationPartsAssemblyInfo.cs
+/home/pbtrudel/GIT/MyWebApp/obj/Release/net8.0/win-x64/MyWebApp.MvcApplicationPartsAssemblyInfo.cache
+/home/pbtrudel/GIT/MyWebApp/obj/Release/net8.0/win-x64/MyWebApp.sourcelink.json
 /home/pbtrudel/GIT/MyWebApp/bin/Release/net8.0/win-x64/appsettings.Development.json
 /home/pbtrudel/GIT/MyWebApp/bin/Release/net8.0/win-x64/appsettings.json
 /home/pbtrudel/GIT/MyWebApp/bin/Release/net8.0/win-x64/MyWebApp.exe
@@ -5,6 +13,14 @@
 /home/pbtrudel/GIT/MyWebApp/bin/Release/net8.0/win-x64/MyWebApp.runtimeconfig.json
 /home/pbtrudel/GIT/MyWebApp/bin/Release/net8.0/win-x64/MyWebApp.dll
 /home/pbtrudel/GIT/MyWebApp/bin/Release/net8.0/win-x64/MyWebApp.pdb
+/home/pbtrudel/GIT/MyWebApp/bin/Release/net8.0/win-x64/Microsoft.AspNetCore.OpenApi.dll
+/home/pbtrudel/GIT/MyWebApp/bin/Release/net8.0/win-x64/Microsoft.Extensions.Hosting.WindowsServices.dll
+/home/pbtrudel/GIT/MyWebApp/bin/Release/net8.0/win-x64/Microsoft.OpenApi.dll
+/home/pbtrudel/GIT/MyWebApp/bin/Release/net8.0/win-x64/Swashbuckle.AspNetCore.Swagger.dll
+/home/pbtrudel/GIT/MyWebApp/bin/Release/net8.0/win-x64/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/pbtrudel/GIT/MyWebApp/bin/Release/net8.0/win-x64/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/pbtrudel/GIT/MyWebApp/bin/Release/net8.0/win-x64/System.Diagnostics.EventLog.Messages.dll
+/home/pbtrudel/GIT/MyWebApp/bin/Release/net8.0/win-x64/System.ServiceProcess.ServiceController.dll
 /home/pbtrudel/GIT/MyWebApp/bin/Release/net8.0/win-x64/Microsoft.CSharp.dll
 /home/pbtrudel/GIT/MyWebApp/bin/Release/net8.0/win-x64/Microsoft.VisualBasic.Core.dll
 /home/pbtrudel/GIT/MyWebApp/bin/Release/net8.0/win-x64/Microsoft.VisualBasic.dll
@@ -307,7 +323,6 @@
 /home/pbtrudel/GIT/MyWebApp/bin/Release/net8.0/win-x64/Microsoft.Extensions.WebEncoders.dll
 /home/pbtrudel/GIT/MyWebApp/bin/Release/net8.0/win-x64/Microsoft.JSInterop.dll
 /home/pbtrudel/GIT/MyWebApp/bin/Release/net8.0/win-x64/Microsoft.Net.Http.Headers.dll
-/home/pbtrudel/GIT/MyWebApp/bin/Release/net8.0/win-x64/System.Diagnostics.EventLog.Messages.dll
 /home/pbtrudel/GIT/MyWebApp/bin/Release/net8.0/win-x64/System.Diagnostics.EventLog.dll
 /home/pbtrudel/GIT/MyWebApp/bin/Release/net8.0/win-x64/System.IO.Pipelines.dll
 /home/pbtrudel/GIT/MyWebApp/bin/Release/net8.0/win-x64/System.Security.Cryptography.Pkcs.dll
@@ -328,11 +343,6 @@
 /home/pbtrudel/GIT/MyWebApp/bin/Release/net8.0/win-x64/mscorrc.dll
 /home/pbtrudel/GIT/MyWebApp/bin/Release/net8.0/win-x64/msquic.dll
 /home/pbtrudel/GIT/MyWebApp/bin/Release/net8.0/win-x64/aspnetcorev2_inprocess.dll
-/home/pbtrudel/GIT/MyWebApp/obj/Release/net8.0/win-x64/MyWebApp.GeneratedMSBuildEditorConfig.editorconfig
-/home/pbtrudel/GIT/MyWebApp/obj/Release/net8.0/win-x64/MyWebApp.AssemblyInfoInputs.cache
-/home/pbtrudel/GIT/MyWebApp/obj/Release/net8.0/win-x64/MyWebApp.AssemblyInfo.cs
-/home/pbtrudel/GIT/MyWebApp/obj/Release/net8.0/win-x64/MyWebApp.csproj.CoreCompileInputs.cache
-/home/pbtrudel/GIT/MyWebApp/obj/Release/net8.0/win-x64/MyWebApp.MvcApplicationPartsAssemblyInfo.cache
 /home/pbtrudel/GIT/MyWebApp/obj/Release/net8.0/win-x64/staticwebassets.build.json
 /home/pbtrudel/GIT/MyWebApp/obj/Release/net8.0/win-x64/staticwebassets.development.json
 /home/pbtrudel/GIT/MyWebApp/obj/Release/net8.0/win-x64/staticwebassets/msbuild.MyWebApp.Microsoft.AspNetCore.StaticWebAssets.props
@@ -347,4 +357,3 @@
 /home/pbtrudel/GIT/MyWebApp/obj/Release/net8.0/win-x64/MyWebApp.pdb
 /home/pbtrudel/GIT/MyWebApp/obj/Release/net8.0/win-x64/MyWebApp.genruntimeconfig.cache
 /home/pbtrudel/GIT/MyWebApp/obj/Release/net8.0/win-x64/ref/MyWebApp.dll
-/home/pbtrudel/GIT/MyWebApp/obj/Release/net8.0/win-x64/MyWebApp.sourcelink.json
