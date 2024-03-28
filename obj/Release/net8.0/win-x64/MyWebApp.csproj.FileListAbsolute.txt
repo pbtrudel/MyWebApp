@@ -357,3 +357,6 @@
 /home/pbtrudel/GIT/MyWebApp/obj/Release/net8.0/win-x64/MyWebApp.pdb
 /home/pbtrudel/GIT/MyWebApp/obj/Release/net8.0/win-x64/MyWebApp.genruntimeconfig.cache
 /home/pbtrudel/GIT/MyWebApp/obj/Release/net8.0/win-x64/ref/MyWebApp.dll
+/home/pbtrudel/GIT/MyWebApp/bin/Release/net8.0/win-x64/output/web.config
+/home/pbtrudel/GIT/MyWebApp/bin/Release/net8.0/win-x64/output/appsettings.Development.json
+/home/pbtrudel/GIT/MyWebApp/bin/Release/net8.0/win-x64/output/appsettings.json
